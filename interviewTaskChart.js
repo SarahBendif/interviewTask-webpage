@@ -58,7 +58,7 @@ fetch('https://SarahBendif.github.io/interviewTask-webpage/patient_data.json')
         labels: Object.keys(qualityCounts),
         datasets: [{
           data: Object.values(qualityCounts),
-          backgroundColor: ["green", "yellow", "red", "gray"]
+          backgroundColor: ["green", "yellow", "red", "purple"]
         }]
       }
     });

@@ -1,6 +1,6 @@
-fetch("patient_data.json")
-  .then(res => res.json())
-  .then(data => {
+fetch('https://SarahBendif.github.io/interviewTask-webpage/patient_data.json')
+  .then(response => response.json())
+  .then(data => console.log(data));
     console.log("🔥 Loaded Patient Data:", data);
 
     // Example: draw average heart rate per record

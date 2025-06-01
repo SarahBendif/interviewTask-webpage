@@ -1,0 +1,1062 @@
+[
+  {
+    "id": "1aNK0IlBlOGhWp0JIPGo",
+    "date": "2025-03-21",
+    "activity": {
+      "steps": 5200,
+      "sedentary_hours": 9.7,
+      "active_minutes": 38
+    },
+    "nutrition": {
+      "calories": 2100,
+      "macros": {
+        "fat_g": {
+          "integerValue": "58"
+        },
+        "carbs_g": {
+          "integerValue": "270"
+        },
+        "protein_g": {
+          "integerValue": "90"
+        }
+      },
+      "water_oz": 48
+    },
+    "sleep": {
+      "interruptions": 2,
+      "duration_hours": 6.8,
+      "quality": "fair"
+    },
+    "vitals": {
+      "heart_rate": [
+        71,
+        73,
+        70,
+        72,
+        74,
+        72
+      ],
+      "blood_pressure": [
+        "119/80",
+        "121/82",
+        "118/79",
+        "120/81",
+        "122/83"
+      ],
+      "temperature": [
+        98.6,
+        98.4,
+        98.5,
+        98.7,
+        98.6
+      ]
+    }
+  },
+  {
+    "id": "2DCJ0E7x9uSiMc8M9Hje",
+    "date": "2025-03-21",
+    "activity": {
+      "sedentary_hours": 9.7,
+      "steps": 5200,
+      "active_minutes": 38
+    },
+    "nutrition": {
+      "water_oz": 48,
+      "calories": 2100,
+      "macros": {
+        "fat_g": {
+          "integerValue": "58"
+        },
+        "protein_g": {
+          "integerValue": "90"
+        },
+        "carbs_g": {
+          "integerValue": "270"
+        }
+      }
+    },
+    "sleep": {
+      "duration_hours": 6.8,
+      "quality": "fair",
+      "interruptions": 2
+    },
+    "vitals": {
+      "blood_pressure": [
+        "119/80",
+        "121/82",
+        "118/79",
+        "120/81",
+        "122/83"
+      ],
+      "heart_rate": [
+        71,
+        73,
+        70,
+        72,
+        74,
+        72
+      ],
+      "temperature": [
+        98.6,
+        98.4,
+        98.5,
+        98.7,
+        98.6
+      ]
+    }
+  },
+  {
+    "id": "3xP5bsc13fVaehGMH2wd",
+    "date": "2025-03-17",
+    "activity": {
+      "active_minutes": 35,
+      "sedentary_hours": 10.5,
+      "steps": 4500
+    },
+    "nutrition": {
+      "calories": 2200,
+      "macros": {
+        "carbs_g": {
+          "integerValue": "290"
+        },
+        "protein_g": {
+          "integerValue": "85"
+        },
+        "fat_g": {
+          "integerValue": "60"
+        }
+      },
+      "water_oz": 45
+    },
+    "sleep": {
+      "quality": "poor",
+      "duration_hours": 6.5,
+      "interruptions": 3
+    },
+    "vitals": {
+      "heart_rate": [
+        72,
+        75,
+        68,
+        71,
+        74,
+        73
+      ],
+      "temperature": [
+        98.6,
+        98.4,
+        98.7,
+        98.5,
+        98.8
+      ],
+      "blood_pressure": [
+        "120/80",
+        "122/82",
+        "118/79",
+        "121/81",
+        "125/83"
+      ]
+    }
+  },
+  {
+    "id": "6r6bGwNOMEfTVRXMO9BR",
+    "date": "2025-03-28",
+    "activity": {
+      "sedentary_hours": 10.8,
+      "active_minutes": 35,
+      "steps": 4800
+    },
+    "nutrition": {
+      "macros": {
+        "protein_g": {
+          "integerValue": "85"
+        },
+        "fat_g": {
+          "integerValue": "70"
+        },
+        "carbs_g": {
+          "integerValue": "330"
+        }
+      },
+      "calories": 2400,
+      "water_oz": 45
+    },
+    "sleep": {
+      "quality": "poor",
+      "duration_hours": 6,
+      "interruptions": 3
+    },
+    "vitals": {
+      "blood_pressure": [
+        "125/82",
+        "127/84",
+        "124/81",
+        "126/83",
+        "128/85"
+      ],
+      "temperature": [
+        98.9,
+        98.7,
+        99,
+        98.8,
+        99.1
+      ],
+      "heart_rate": [
+        75,
+        77,
+        73,
+        76,
+        78,
+        74
+      ]
+    }
+  },
+  {
+    "id": "9A3FURfOO7c55asePIFn",
+    "date": "2025-03-19",
+    "activity": {
+      "sedentary_hours": 8.2,
+      "steps": 8200,
+      "active_minutes": 55
+    },
+    "nutrition": {
+      "water_oz": 60,
+      "calories": 1850,
+      "macros": {
+        "carbs_g": {
+          "integerValue": "220"
+        },
+        "fat_g": {
+          "integerValue": "50"
+        },
+        "protein_g": {
+          "integerValue": "100"
+        }
+      }
+    },
+    "sleep": {
+      "quality": "good",
+      "duration_hours": 8.1,
+      "interruptions": 1
+    },
+    "vitals": {
+      "blood_pressure": [
+        "115/76",
+        "117/78",
+        "114/75",
+        "116/77",
+        "118/79"
+      ],
+      "temperature": [
+        98.4,
+        98.2,
+        98.3,
+        98.5,
+        98.4
+      ],
+      "heart_rate": [
+        65,
+        67,
+        64,
+        66,
+        68,
+        67
+      ]
+    }
+  },
+  {
+    "id": "BO8Lma84mSt2jPz94u7d",
+    "date": "2025-03-29",
+    "activity": {
+      "active_minutes": 45,
+      "steps": 6000,
+      "sedentary_hours": 9.5
+    },
+    "nutrition": {
+      "calories": 2200,
+      "water_oz": 50,
+      "macros": {
+        "protein_g": {
+          "integerValue": "90"
+        },
+        "fat_g": {
+          "integerValue": "65"
+        },
+        "carbs_g": {
+          "integerValue": "300"
+        }
+      }
+    },
+    "sleep": {
+      "interruptions": 2,
+      "duration_hours": 7,
+      "quality": "fair"
+    },
+    "vitals": {
+      "heart_rate": [
+        72,
+        74,
+        70,
+        73,
+        75,
+        71
+      ],
+      "blood_pressure": [
+        "122/80",
+        "124/82",
+        "121/79",
+        "123/81",
+        "125/83"
+      ],
+      "temperature": [
+        98.6,
+        98.4,
+        98.7,
+        98.5,
+        98.8
+      ]
+    }
+  },
+  {
+    "id": "FlU19iteM3babjwgjDoJ",
+    "date": "2025-03-24",
+    "activity": {
+      "steps": 3200,
+      "active_minutes": 20,
+      "sedentary_hours": 12.5
+    },
+    "nutrition": {
+      "macros": {
+        "fat_g": {
+          "integerValue": "80"
+        },
+        "protein_g": {
+          "integerValue": "70"
+        },
+        "carbs_g": {
+          "integerValue": "350"
+        }
+      },
+      "calories": 2500,
+      "water_oz": 35
+    },
+    "sleep": {
+      "duration_hours": 5.5,
+      "interruptions": 4,
+      "quality": "poor"
+    },
+    "vitals": {
+      "temperature": [
+        99.1,
+        98.9,
+        99.2,
+        98.8,
+        99
+      ],
+      "heart_rate": [
+        80,
+        82,
+        78,
+        81,
+        83,
+        79
+      ],
+      "blood_pressure": [
+        "130/85",
+        "132/87",
+        "128/84",
+        "131/86",
+        "133/88"
+      ]
+    }
+  },
+  {
+    "id": "MJw78N3qFu7z7IOSyqHT",
+    "date": "2025-03-20",
+    "activity": {
+      "steps": 7800,
+      "active_minutes": 50,
+      "sedentary_hours": 8.5
+    },
+    "nutrition": {
+      "water_oz": 58,
+      "calories": 1900,
+      "macros": {
+        "carbs_g": {
+          "integerValue": "230"
+        },
+        "protein_g": {
+          "integerValue": "98"
+        },
+        "fat_g": {
+          "integerValue": "52"
+        }
+      }
+    },
+    "sleep": {
+      "quality": "good",
+      "duration_hours": 7.8,
+      "interruptions": 1
+    },
+    "vitals": {
+      "blood_pressure": [
+        "116/77",
+        "118/79",
+        "115/76",
+        "117/78",
+        "119/80"
+      ],
+      "heart_rate": [
+        67,
+        69,
+        66,
+        68,
+        70,
+        68
+      ],
+      "temperature": [
+        98.5,
+        98.3,
+        98.4,
+        98.6,
+        98.5
+      ]
+    }
+  },
+  {
+    "id": "OVASut4vazhRswb4iIsY",
+    "date": "2025-03-27",
+    "activity": {
+      "active_minutes": 80,
+      "steps": 11200,
+      "sedentary_hours": 6.2
+    },
+    "nutrition": {
+      "water_oz": 75,
+      "macros": {
+        "fat_g": {
+          "integerValue": "45"
+        },
+        "protein_g": {
+          "integerValue": "115"
+        },
+        "carbs_g": {
+          "integerValue": "210"
+        }
+      },
+      "calories": 1800
+    },
+    "sleep": {
+      "duration_hours": 8.7,
+      "interruptions": 1,
+      "quality": "good"
+    },
+    "vitals": {
+      "temperature": [
+        98.1,
+        97.9,
+        98.2,
+        98,
+        98.3
+      ],
+      "heart_rate": [
+        62,
+        64,
+        61,
+        63,
+        65,
+        60
+      ],
+      "blood_pressure": [
+        "108/68",
+        "110/70",
+        "107/67",
+        "109/69",
+        "111/71"
+      ]
+    }
+  },
+  {
+    "id": "PGzZQmzW5dNLFqaIvZMk",
+    "date": "2025-03-20",
+    "activity": {
+      "sedentary_hours": 8.5,
+      "active_minutes": 50,
+      "steps": 7800
+    },
+    "nutrition": {
+      "calories": 1900,
+      "macros": {
+        "protein_g": {
+          "integerValue": "98"
+        },
+        "carbs_g": {
+          "integerValue": "230"
+        },
+        "fat_g": {
+          "integerValue": "52"
+        }
+      },
+      "water_oz": 58
+    },
+    "sleep": {
+      "duration_hours": 7.8,
+      "quality": "good",
+      "interruptions": 1
+    },
+    "vitals": {
+      "heart_rate": [
+        67,
+        69,
+        66,
+        68,
+        70,
+        68
+      ],
+      "temperature": [
+        98.5,
+        98.3,
+        98.4,
+        98.6,
+        98.5
+      ],
+      "blood_pressure": [
+        "116/77",
+        "118/79",
+        "115/76",
+        "117/78",
+        "119/80"
+      ]
+    }
+  },
+  {
+    "id": "WDNnXjRQUQzj1evqzTl0",
+    "date": "2025-03-23",
+    "activity": {
+      "sedentary_hours": 7.8,
+      "active_minutes": 62,
+      "steps": 9500
+    },
+    "nutrition": {
+      "calories": 1950,
+      "macros": {
+        "fat_g": {
+          "integerValue": "53"
+        },
+        "protein_g": {
+          "integerValue": "105"
+        },
+        "carbs_g": {
+          "integerValue": "235"
+        }
+      },
+      "water_oz": 65
+    },
+    "sleep": {
+      "duration_hours": 7.5,
+      "interruptions": 1,
+      "quality": "good"
+    },
+    "vitals": {
+      "blood_pressure": [
+        "118/79",
+        "120/81",
+        "117/78",
+        "119/80",
+        "121/82"
+      ],
+      "heart_rate": [
+        70,
+        72,
+        69,
+        71,
+        73,
+        71
+      ],
+      "temperature": [
+        98.6,
+        98.4,
+        98.5,
+        98.7,
+        98.6
+      ]
+    }
+  },
+  {
+    "id": "WYt1oqp2DBrWQiQ0eHar",
+    "date": "2025-03-25",
+    "activity": {
+      "steps": 4500,
+      "active_minutes": 30,
+      "sedentary_hours": 11.3
+    },
+    "nutrition": {
+      "water_oz": 40,
+      "macros": {
+        "protein_g": {
+          "integerValue": "75"
+        },
+        "carbs_g": {
+          "integerValue": "320"
+        },
+        "fat_g": {
+          "integerValue": "75"
+        }
+      },
+      "calories": 2300
+    },
+    "sleep": {
+      "duration_hours": 6.2,
+      "interruptions": 3,
+      "quality": "fair"
+    },
+    "vitals": {
+      "blood_pressure": [
+        "127/83",
+        "129/85",
+        "126/82",
+        "128/84",
+        "130/86"
+      ],
+      "heart_rate": [
+        76,
+        79,
+        77,
+        78,
+        80,
+        75
+      ],
+      "temperature": [
+        98.7,
+        98.5,
+        98.8,
+        98.6,
+        98.9
+      ]
+    }
+  },
+  {
+    "id": "Wi5eRimDDxLW31dIlUxH",
+    "date": "2025-03-26",
+    "activity": {
+      "active_minutes": 75,
+      "steps": 10000,
+      "sedentary_hours": 6.5
+    },
+    "nutrition": {
+      "calories": 1700,
+      "water_oz": 70,
+      "macros": {
+        "fat_g": {
+          "integerValue": "40"
+        },
+        "protein_g": {
+          "integerValue": "110"
+        },
+        "carbs_g": {
+          "integerValue": "200"
+        }
+      }
+    },
+    "sleep": {
+      "quality": "excellent",
+      "duration_hours": 9,
+      "interruptions": 0
+    },
+    "vitals": {
+      "blood_pressure": [
+        "110/70",
+        "112/72",
+        "109/69",
+        "111/71",
+        "113/73"
+      ],
+      "heart_rate": [
+        65,
+        67,
+        64,
+        66,
+        68,
+        63
+      ],
+      "temperature": [
+        98.2,
+        98,
+        98.3,
+        98.1,
+        98.4
+      ]
+    }
+  },
+  {
+    "id": "YCXfq6bv4OojzI2DBQoE",
+    "date": "2025-03-19",
+    "activity": {
+      "sedentary_hours": 8.2,
+      "steps": 8200,
+      "active_minutes": 55
+    },
+    "nutrition": {
+      "water_oz": 60,
+      "macros": {
+        "protein_g": {
+          "integerValue": "100"
+        },
+        "fat_g": {
+          "integerValue": "50"
+        },
+        "carbs_g": {
+          "integerValue": "220"
+        }
+      },
+      "calories": 1850
+    },
+    "sleep": {
+      "duration_hours": 8.1,
+      "quality": "good",
+      "interruptions": 1
+    },
+    "vitals": {
+      "blood_pressure": [
+        "115/76",
+        "117/78",
+        "114/75",
+        "116/77",
+        "118/79"
+      ],
+      "heart_rate": [
+        65,
+        67,
+        64,
+        66,
+        68,
+        67
+      ],
+      "temperature": [
+        98.4,
+        98.2,
+        98.3,
+        98.5,
+        98.4
+      ]
+    }
+  },
+  {
+    "id": "cp3hLvKiruXznHzSDPRM",
+    "date": "2025-03-17",
+    "activity": {
+      "active_minutes": 35,
+      "sedentary_hours": 10.5,
+      "steps": 4500
+    },
+    "nutrition": {
+      "calories": 2200,
+      "water_oz": 45,
+      "macros": {
+        "carbs_g": {
+          "integerValue": "290"
+        },
+        "fat_g": {
+          "integerValue": "60"
+        },
+        "protein_g": {
+          "integerValue": "85"
+        }
+      }
+    },
+    "sleep": {
+      "interruptions": 3,
+      "quality": "poor",
+      "duration_hours": 6.5
+    },
+    "vitals": {
+      "blood_pressure": [
+        "120/80",
+        "122/82",
+        "118/79",
+        "121/81",
+        "125/83"
+      ],
+      "heart_rate": [
+        72,
+        75,
+        68,
+        71,
+        74,
+        73
+      ],
+      "temperature": [
+        98.6,
+        98.4,
+        98.7,
+        98.5,
+        98.8
+      ]
+    }
+  },
+  {
+    "id": "eIGtVsnM4KR33Xd9bnhK",
+    "date": "2025-03-18",
+    "activity": {
+      "sedentary_hours": 9.8,
+      "steps": 6700,
+      "active_minutes": 42
+    },
+    "nutrition": {
+      "water_oz": 52,
+      "macros": {
+        "protein_g": {
+          "integerValue": "95"
+        },
+        "carbs_g": {
+          "integerValue": "240"
+        },
+        "fat_g": {
+          "integerValue": "55"
+        }
+      },
+      "calories": 1950
+    },
+    "sleep": {
+      "duration_hours": 7.2,
+      "interruptions": 2,
+      "quality": "fair"
+    },
+    "vitals": {
+      "heart_rate": [
+        68,
+        70,
+        67,
+        72,
+        69,
+        71
+      ],
+      "blood_pressure": [
+        "118/78",
+        "120/80",
+        "117/77",
+        "119/79",
+        "121/80"
+      ],
+      "temperature": [
+        98.5,
+        98.3,
+        98.4,
+        98.6,
+        98.5
+      ]
+    }
+  },
+  {
+    "id": "hFfmeN0J5p7u7RwMd03D",
+    "date": "2025-03-22",
+    "activity": {
+      "active_minutes": 25,
+      "steps": 3000,
+      "sedentary_hours": 11.2
+    },
+    "nutrition": {
+      "calories": 2300,
+      "macros": {
+        "protein_g": {
+          "integerValue": "80"
+        },
+        "fat_g": {
+          "integerValue": "65"
+        },
+        "carbs_g": {
+          "integerValue": "310"
+        }
+      },
+      "water_oz": 42
+    },
+    "sleep": {
+      "quality": "excellent",
+      "duration_hours": 8.5,
+      "interruptions": 0
+    },
+    "vitals": {
+      "heart_rate": [
+        69,
+        71,
+        68,
+        70,
+        72,
+        70
+      ],
+      "blood_pressure": [
+        "117/78",
+        "119/80",
+        "116/77",
+        "118/79",
+        "120/81"
+      ],
+      "temperature": [
+        98.5,
+        98.3,
+        98.4,
+        98.6,
+        98.5
+      ]
+    }
+  },
+  {
+    "id": "j4vgaHMPrFW8ejsf2A4Z",
+    "date": "2025-03-18",
+    "activity": {
+      "steps": 6700,
+      "active_minutes": 42,
+      "sedentary_hours": 9.8
+    },
+    "nutrition": {
+      "calories": 1950,
+      "macros": {
+        "carbs_g": {
+          "integerValue": "240"
+        },
+        "fat_g": {
+          "integerValue": "55"
+        },
+        "protein_g": {
+          "integerValue": "95"
+        }
+      },
+      "water_oz": 52
+    },
+    "sleep": {
+      "quality": "fair",
+      "duration_hours": 7.2,
+      "interruptions": 2
+    },
+    "vitals": {
+      "temperature": [
+        98.5,
+        98.3,
+        98.4,
+        98.6,
+        98.5
+      ],
+      "blood_pressure": [
+        "118/78",
+        "120/80",
+        "117/77",
+        "119/79",
+        "121/80"
+      ],
+      "heart_rate": [
+        68,
+        70,
+        67,
+        72,
+        69,
+        71
+      ]
+    }
+  },
+  {
+    "id": "ovyVD3fQnMggW4BuAkeN",
+    "date": "2025-03-22",
+    "activity": {
+      "sedentary_hours": 11.2,
+      "active_minutes": 25,
+      "steps": 3000
+    },
+    "nutrition": {
+      "calories": 2300,
+      "water_oz": 42,
+      "macros": {
+        "fat_g": {
+          "integerValue": "65"
+        },
+        "protein_g": {
+          "integerValue": "80"
+        },
+        "carbs_g": {
+          "integerValue": "310"
+        }
+      }
+    },
+    "sleep": {
+      "quality": "excellent",
+      "interruptions": 0,
+      "duration_hours": 8.5
+    },
+    "vitals": {
+      "heart_rate": [
+        69,
+        71,
+        68,
+        70,
+        72,
+        70
+      ],
+      "temperature": [
+        98.5,
+        98.3,
+        98.4,
+        98.6,
+        98.5
+      ],
+      "blood_pressure": [
+        "117/78",
+        "119/80",
+        "116/77",
+        "118/79",
+        "120/81"
+      ]
+    }
+  },
+  {
+    "id": "y3WhQYVT95G9ssPMlxjh",
+    "date": "2025-03-23",
+    "activity": {
+      "steps": 9500,
+      "sedentary_hours": 7.8,
+      "active_minutes": 62
+    },
+    "nutrition": {
+      "calories": 1950,
+      "water_oz": 65,
+      "macros": {
+        "carbs_g": {
+          "integerValue": "235"
+        },
+        "fat_g": {
+          "integerValue": "53"
+        },
+        "protein_g": {
+          "integerValue": "105"
+        }
+      }
+    },
+    "sleep": {
+      "duration_hours": 7.5,
+      "interruptions": 1,
+      "quality": "good"
+    },
+    "vitals": {
+      "temperature": [
+        98.6,
+        98.4,
+        98.5,
+        98.7,
+        98.6
+      ],
+      "blood_pressure": [
+        "118/79",
+        "120/81",
+        "117/78",
+        "119/80",
+        "121/82"
+      ],
+      "heart_rate": [
+        70,
+        72,
+        69,
+        71,
+        73,
+        71
+      ]
+    }
+  }
+]

@@ -1,9 +1,9 @@
 fetch('https://SarahBendif.github.io/interviewTask-webpage/patient_data.json')
   .then(response => response.json())
-  .then(data => console.log(data));
+  .then(data => {
     console.log("🔥 Loaded Patient Data:", data);
 
-    // Example: draw average heart rate per record
+    // === LINE CHART: Average Heart Rate ===
     const labels = data.map(d => d.date);
     const avgHeartRates = data.map(d =>
       d.vitals?.heart_rate?.reduce((a, b) => a + b, 0) / d.vitals?.heart_rate?.length || 0
@@ -22,7 +22,6 @@ fetch('https://SarahBendif.github.io/interviewTask-webpage/patient_data.json')
       }
     });
 
-    
     // === BAR CHART: Steps vs. Calories ===
     const steps = data.map(d => d.activity?.steps || 0);
     const calories = data.map(d => d.nutrition?.calories || 0);
@@ -63,7 +62,6 @@ fetch('https://SarahBendif.github.io/interviewTask-webpage/patient_data.json')
         }]
       }
     });
-
   })
   .catch(err => {
     console.error("Error loading patient_data.json", err);
